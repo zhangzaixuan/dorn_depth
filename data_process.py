@@ -1,6 +1,6 @@
 # coding=utf-8
 """
-@Author: jin
+@Author: jing
 @Email:
 """
 import os
